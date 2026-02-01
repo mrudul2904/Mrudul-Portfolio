@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-scroll';
 import './Hero.css'
 import profile_img from '../../assets/profile_img.jpg'
-import myResume from '../../assets/Resume_Mrudul_Kumar_Mehta.pdf';
+import myResume from '../../assets/0801EC221057_BT_ET_Mrudul_Kumar_Mehta';
 
 const Hero = () => {
     return(
